@@ -324,6 +324,14 @@ will have `false` value.
             "url": null
         },
     ],
+    "download": {
+        "pdf": {
+            "url": "https://hh.ru/api_resume_converter/LastNameFirstNameMiddleName.pdf?type=pdf&id=12345678901234567890123456789012abcdef"
+        },
+        "rtf": {
+            "url": "https://hh.ru/api_resume_converter/LastNameFirstNameMiddleName.rtf?type=pdf&id=12345678901234567890123456789012abcdef"
+        }
+    },
     "alternate_url": "https://hh.ru/resume/12345678901234567890123456789012abcdef",
     "created_at": "2013-05-31T14:27:04+0400",
     "updated_at": "2013-10-17T15:22:55+0400",

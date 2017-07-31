@@ -143,6 +143,14 @@ GET /vacancies/{vacancy_id}/suitable_resumes
             },
             "negotiations_history": {
                 "url": "https://api.hh.ru/resumes/14831542000d1f366b4c5a6a751b329b70039e/negotiations_history"
+            },
+            "download": {
+                "pdf": {
+                    "url": "https://hh.ru/api_resume_converter/ИвановИванИванович.pdf?type=pdf&id=14831542000d1f366b4c5a6a751b329b70039e"
+                },
+                "rtf": {
+                    "url": "https://hh.ru/api_resume_converter/ИвановИванИванович.rtf?type=pdf&id=14831542000d1f366b4c5a6a751b329b70039e"
+                }
             }
         }
     ],
